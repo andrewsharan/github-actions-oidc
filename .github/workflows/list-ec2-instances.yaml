@@ -1,4 +1,4 @@
-name: List EC2 Instances
+name: List EC2 Instances in us-east-1
 
 on:
   push:
